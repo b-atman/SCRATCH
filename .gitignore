@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if used)
+.vscode/
+
+# Test output / logs
+*.log
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Local environment vars
+.env
+
+# Mac OS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Specific to this project
+reddit_posts.csv
+
+#exclude all csv
+.csv
