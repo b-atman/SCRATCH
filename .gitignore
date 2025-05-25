@@ -42,3 +42,5 @@ reddit_posts.csv
 
 #exclude all csv
 .csv
+
+!reddit_posts_scored.csv
